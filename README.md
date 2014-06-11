@@ -1,3 +1,5 @@
+[![Build Status](http://img.shields.io/travis/vStone/puppet-percona.svg)](https://travis-ci.org/vStone/puppet-percona)
+
 # Puppet Percona
 
 Install a percona (mysql) server and manage users/rights/databases.
