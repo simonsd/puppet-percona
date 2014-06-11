@@ -1,5 +1,11 @@
 # == Class percona::params
 #
+# The params class can be used to default configuration that
+# transcendents specific node configuration. This can be used
+# to set global defaults outside the node {} (or included classes)
+# declaration. Everything in the params class can be overridden
+# in the parameters of the percona class.
+#
 # === Parameters:
 #
 # $config_include_dir::     Folder to include using '!includedir' in the mysql
