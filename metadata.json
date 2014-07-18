@@ -7,5 +7,6 @@
   "source": "https://github.com/vStone/puppet-percona",
   "project_page": "https://github.com/vStone/puppet-percona",
   "issues_url": "https://github.com/vStone/puppet-percona/issues",
-  "tags": ["percona", "mysql"]
+  "tags": ["percona", "mysql"],
+  "dependencies": []
 }
